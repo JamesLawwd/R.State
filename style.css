@@ -125,8 +125,9 @@ header{
 }
 .about-img img{
     border-radius: 3rem 0 3rem 3rem; 
-    /* padding-right: %;  */
-    /* padding-left: 4%;    */
+    padding-right: 2%;
+    
+   
 }
 .about-text span{
     font-size: 1rem;
